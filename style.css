@@ -7,6 +7,7 @@
     padding: 0;
     margin: 0;
     box-sizing: inherit;
+    background-color: rgba(47, 40, 49, 0.9);
 }
 
 body {
